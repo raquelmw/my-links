@@ -33,7 +33,7 @@ li {
 }
 
 a {
-    background-color: limegreen;
+    background-color: burlywood;
     color: white;
     padding: 15px;
     text-decoration: none;
@@ -41,7 +41,10 @@ a {
     width: 320px;
     height: 48px;
     border-radius: 5px;
-
+}
+a:hover {
+    background-color: white;
+    color: burlywood 
 }
 
 footer {
